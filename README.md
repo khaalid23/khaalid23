@@ -47,11 +47,11 @@ Passionate about building modern web applications, solving problems with code, a
 
 
 ## 📊 GitHub Stats  
-
+<p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaalid23&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaalid23&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaalid23&theme=tokyonight)  
-
+</p>
 ---
 
 ## 📈 Activity Graph  

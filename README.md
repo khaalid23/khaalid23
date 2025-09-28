@@ -57,9 +57,8 @@ Passionate about building modern web applications, solving problems with code, a
 
 ## 📈 Activity Graph  
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/khaalid23/khaalid23/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake  
+![snake animation](https://github.com/khaalid23/khaalid23/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

@@ -57,7 +57,9 @@ Passionate about building modern web applications, solving problems with code, a
 
 ## 📈 Activity Graph  
 
-[![Khaalid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaalid23&bg_color=0d1117&color=61dafb&line=38bdae&point=f1f1f1&area=true&hide_border=true)](https://github.com/khaalid23)  
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/khaalid23/khaalid23/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

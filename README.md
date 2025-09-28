@@ -55,10 +55,11 @@ Passionate about building modern web applications, solving problems with code, a
 
 ---
 
-## 📈 Activity Graph  
+## ✅ Contribution Overview  
 
-## 🐍 Contribution Snake  
-![snake animation](https://github.com/khaalid23/khaalid23/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://ghchart.rshah.org/00ff7f/khaalid23" alt="Khaalid's Github chart" />
+</p>
 
 ---
 

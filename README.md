@@ -52,11 +52,12 @@ Passionate about building modern web applications, solving problems with code, a
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=khaalid23&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaalid23&layout=compact&theme=radical&hide_border=true" height="165" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaalid23&theme=radical&hide_border=true" height="165" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaalid23&theme=radical&hide_border=true" height="165" />
-</p>
+</p> -->
 
 ---
 
